@@ -8,9 +8,9 @@ To create the smart contract we used ICO Wizard. The smart contract code is Copy
 
 The token sale is open for everybody. In the sale, we will provide 75% of all 50'000'000 Bitfair Token to the public. 60% will be offered in the Token Sale and 15% will be offered in the Pre-Sale.
 
-There will be a bonus for Pre-Sale contributors and also in the first of the Token Sale.
+There will be a bonus for Pre-Sale contributors and also in the first week of the Token Sale.
 
-The smart contract will only mint as much Token as needed.
+The smart contract will only mint as much token as needed.
 
 60% are reserved to the token sale contributors
 15% are reserved to the pre sale contributors
